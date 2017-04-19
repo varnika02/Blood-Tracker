@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/pro"
+            android:checked="false"
+            android:icon="@drawable/ic_login"
+            android:title="@string/profile" />
+
+        <item
+            android:id="@+id/noti"
+            android:checked="false"
+            android:icon="@drawable/ic_notifications"
+            android:title="@string/notification" />
+
+
+        <item
+            android:id="@+id/aroundyou"
+            android:checked="false"
+            android:icon="@drawable/ic_aroundyou"
+            android:title="@string/around" />
+
+
+        <item
+            android:id="@+id/signout"
+            android:checked="false"
+            android:icon="@drawable/ic_logout"
+            android:title="@string/logout" />
+
+    </group>
+</menu>

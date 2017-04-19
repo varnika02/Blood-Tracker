@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+      xmlns:nagivationapp="http://schemas.android.com/apk/res-auto">
+    
+<item
+    android:id="@+id/edit"
+    android:icon="@drawable/ic_edit_black_24dp"
+    android:title="Edit"
+    android:showAsAction="ifRoom" />
+<item 
+    android:id="@+id/changePassword"
+    android:icon="@drawable/ic_launcher"
+    android:title="Change Password"
+    nagivationapp:showAsAction="never"
+     />
+<item 
+    android:id="@+id/deleteAccount"
+    android:icon="@drawable/ic_launcher"
+    android:title="Delete Account"
+    nagivationapp:showAsAction="never"
+     />
+
+
+</menu>

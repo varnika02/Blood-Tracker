@@ -1,0 +1,84 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.somendra.navigationapp.Profile"
+    >
+
+    <EditText
+        android:id="@+id/n1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Enter Full Name"
+        android:shadowColor="#ff8c42"
+        android:shadowRadius="1"
+        android:inputType="textPersonName" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/n1"
+        android:layout_alignRight="@+id/n1"
+        android:layout_below="@+id/n1"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Enter City"
+        android:shadowColor="#ff8c42"
+        android:shadowRadius="1"
+        />
+
+    <EditText
+        android:id="@+id/pincode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/city"
+        android:layout_alignRight="@+id/city"
+        android:layout_below="@+id/city"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Enter Pin Code"
+        android:inputType="phone"
+        android:shadowColor="#ff8c42"
+        android:shadowRadius="1"
+        />
+
+    <EditText
+        android:id="@+id/bldgrp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/pincode"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/pincode"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Enter Blood Group"
+        android:shadowColor="#ff8c42"
+        android:shadowRadius="1"
+
+        />
+
+    <Button
+        android:id="@+id/confirm"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/bldgrp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:shadowColor="#ff8c42"
+        android:shadowRadius="1"
+        android:text="Save Changes" />
+
+</RelativeLayout>

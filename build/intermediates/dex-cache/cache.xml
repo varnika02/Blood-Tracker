@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\810810f543db1c832c147df59c1af489296a6d3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\classes_7a996977856b4afeb44eff37ea70a18a4518368d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\810810f543db1c832c147df59c1af489296a6d3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7a996977856b4afeb44eff37ea70a18a4518368d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0de93fa18e0d029495a6d3a6a20be01e11d0a6aa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\classes_b672127ef05f53cbd9ae845d594adc3a03685ba5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\0de93fa18e0d029495a6d3a6a20be01e11d0a6aa\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b672127ef05f53cbd9ae845d594adc3a03685ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\06e100801acf99399cc73ee624f4f62dcf9cac5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\classes_1f120248ab83fecde8b4a97279527d262c6e4a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_3c1717fcb025dde58f4beb4eb92d3fda2aa7817e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\06e100801acf99399cc73ee624f4f62dcf9cac5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1f120248ab83fecde8b4a97279527d262c6e4a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a11fc60173c75ad32b8606b3f876f97734263bc">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a569caed17fed6348530c77e995cbef071190ce6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_3c1717fcb025dde58f4beb4eb92d3fda2aa7817e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f2e21d60608c2c54a6fcd0dcef78b0664583ea31\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66f27367dc9aab0be34c2282af2809db5a8c4715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\59c9dd81eebe2847c285c15939fb0e41c6eb1f23\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_addb7259ffbf0f81e4bf65531f55e2e0456c88b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\59c9dd81eebe2847c285c15939fb0e41c6eb1f23\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\classes_addb7259ffbf0f81e4bf65531f55e2e0456c88b1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\f2e21d60608c2c54a6fcd0dcef78b0664583ea31\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_56360e33268faaa8ec28b504345f11882172c9bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f2e21d60608c2c54a6fcd0dcef78b0664583ea31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\classes_66f27367dc9aab0be34c2282af2809db5a8c4715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\f2e21d60608c2c54a6fcd0dcef78b0664583ea31\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_56360e33268faaa8ec28b504345f11882172c9bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\BloodTracker+ - Copy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c30ab5c3e085e3d3e1c19aca1742fd8e535e5b05\classes.dex" />
+    </item>
+
+</items>

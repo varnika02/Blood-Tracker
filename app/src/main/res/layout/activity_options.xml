@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#ffffae12"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".LoginActivity">
+
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Find Donors"
+        android:id="@+id/finddonor"
+        android:background="@drawable/btn"
+        android:textColor="#fff"
+        android:onClick="onClick1"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="135dp" />
+
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Blood Banks Around You"
+        android:id="@+id/banks"
+        android:onClick="onClick2"
+        android:background="@drawable/btn"
+        android:textColor="#fff"
+        android:layout_marginTop="60dp"
+        android:layout_below="@+id/finddonor"
+        android:layout_alignLeft="@+id/finddonor"
+        android:layout_alignStart="@+id/finddonor" />
+
+    <Button
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:text="Sign Out"
+        android:id="@+id/signout"
+        android:onClick="onClick3"
+        android:background="@drawable/btn"
+        android:textColor="#fff"
+        android:layout_marginTop="60dp"
+        android:layout_below="@+id/banks"
+        android:layout_alignLeft="@+id/banks"
+        android:layout_alignStart="@+id/banks" />
+
+</RelativeLayout>
